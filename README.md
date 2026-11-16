@@ -1,1 +1,1 @@
-# StudioFlowAi - Luxury Digital Invitation Card
+Luxury Digital Invitation Card
