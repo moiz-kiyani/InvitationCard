@@ -248,7 +248,7 @@ document.addEventListener('DOMContentLoaded', () => {
       'DTSTART:20270106T160000Z',
       'DTEND:20270106T193000Z',
       'SUMMARY:Nikkah Ceremony — Zaeem & Fatima',
-      'DESCRIPTION:We invite you to celebrate the Nikkah Ceremony of Zaeem & Fatima. 8:00 PM Nikkah Ceremony followed by Royal Dinner at 9:00 PM (Dubai Local Time).',
+      'DESCRIPTION:We invite you to celebrate the Nikkah Ceremony of Zaeem & Fatima. 8:00 PM Nikkah Ceremony followed by Royal Dinner at 8:30 PM (Dubai Local Time).',
       'LOCATION:Arjaan by Rotana, Dubai Media City, King Salman Bin Abdulaziz Al Saud Street, Dubai, United Arab Emirates',
       'STATUS:CONFIRMED',
       'END:VEVENT',
